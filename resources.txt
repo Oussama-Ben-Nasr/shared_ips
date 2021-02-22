@@ -1,0 +1,10 @@
+paper 12/2019:
+https://www.researchgate.net/publication/339477539_RF-MSiP_Radio_Frequency_Multi-source_Indoor_Positioning
+paper 05/2019:
+Energy-Efficient On-Demand Indoor Localization Platform based on Wireless Sensor Networks using Low Power Wake up Receiver
+protocole :
+ieee 802.11mc ips optimised protocoleintegrated in wi-fi
+paper [1]:
+https://ieeexplore.ieee.org/document/6404548
+paper [2]:
+https://ieeexplore.ieee.org/document/4796924
