@@ -1,2 +1,7 @@
 Radiofrequency indoor localization framework.
-Build as an end of the study project at SUP'COM with the cooperation of Leipzig University.
+shared workspace with P2M team.
+you are invited to:
+git clone 
+git commit locally 
+git push 
+P.S: please do not push o the main branch directly 
