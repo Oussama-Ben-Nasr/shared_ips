@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from random import randint
 
 def visualizeErrorAxis(X_true,X_predicted):
-	plt.plot(np.sort(np.sqrt(X_true**2+ X_predicted**2)))
+	plt.plot(np.sort(np.sqrt(X_true**2+ X_predicted**2)),np.array(range(len(X_true)))/(len(X_true)))
 	plt.show()
 def testVisualizeErrorAxis(N,visualizeErrorAxis):
 	X=np.array([randint(0,1000) for i in range(N)])
@@ -20,4 +20,4 @@ def testVisualizeErrorAxis(N,visualizeErrorAxis):
 	return 0
 if __name__=="__main__":
 	N=10000
-	# testVisualizeErrorAxis(N,visualizeErrorAxis) # test passed successfully	
+	#testVisualizeErrorAxis(N,visualizeErrorAxis) # test passed successfully	
